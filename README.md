@@ -154,7 +154,7 @@ dropoff_longitude_max:  -72.307014
 
 ![image](https://github.com/Clarkson-Applied-Data-Science/BDA_NYC_Taxi/assets/161551132/d3d26101-9b2c-44db-a6a5-b08d210a7201)
 
-
+There are few outliers, after managing them, these are the borders.
 ### 6. What is the average overall computed trip distance? (You should use Haversine Distance)
 ####   a. Draw a histogram of the trip distances binned anyway you see fit.
 
