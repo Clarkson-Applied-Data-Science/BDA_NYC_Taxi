@@ -197,7 +197,7 @@ plt.show()
 
 Output :
 
-![image](https://github.com/harshithakotari/jh/assets/161551132/838fa627-fc96-4549-98f2-1a3522722728)
+![output3](https://github.com/Clarkson-Applied-Data-Science/BDA_NYC_Taxi/assets/161551132/82f6aad5-4a18-457b-85a1-2bfddf33367a)
 
 
 
@@ -290,7 +290,7 @@ plt.show()
 
 Output :
 
-![e297386f-acf5-4634-8a06-a1cd00c6c658](https://github.com/harshithakotari/jh/assets/161551132/03afd572-6be8-4364-9a26-ed3e2d078bbe)
+![output2](https://github.com/Clarkson-Applied-Data-Science/BDA_NYC_Taxi/assets/161551132/82f6aad5-4a18-457b-85a1-2bfddf33367a)
 
 
 ### 10. Create a new CSV file which has only one out of every thousand rows.
@@ -329,4 +329,4 @@ plt.show()
 
 Output :
 
-![e1c06bac-5d29-4232-9601-62315ea7ff62](https://github.com/harshithakotari/jh/assets/161551132/466a6d6f-ec90-47a1-ae42-4aa96888ead0)
+![output3](https://github.com/Clarkson-Applied-Data-Science/BDA_NYC_Taxi/assets/161551132/82f6aad5-4a18-457b-85a1-2bfddf33367a)
